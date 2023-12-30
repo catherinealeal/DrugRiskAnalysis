@@ -71,4 +71,4 @@ Figure 5 demonstrates that the most used drug by 12-25 year olds between 2010 an
 This analysis is limited by a couple factors. For one, the drug use data is for the US only, so those results can't necessarily be generalized to age groups and their drug usages throughout the world. In fact, drug use rates are likely to vary with location as accessibility and acceptance of certain drugs will vary with geographical and cultural differences. A second limitation is that the drug use data used here only considered alcohol, cocaine, and marijuana usage. These are likely the most commonly used substances so they should allow for an accurate comparison, but it is important to note that these rates don't encompass all drugs.
 
 
-### **View full project here:** https://github.com/catherinealeal/DrugRiskAnalysis/blob/6a5c23e8d89df88506f7e98104a42efa6bf03c71/DataScienceProject.ipynb
+### View full project here: https://github.com/catherinealeal/DrugRiskAnalysis/blob/6a5c23e8d89df88506f7e98104a42efa6bf03c71/DataScienceProject.ipynb
