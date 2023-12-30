@@ -15,6 +15,9 @@ Crash risk of drug-positive drivers: https://www.nhtsa.gov/drug-and-alcohol-cras
 
 ## **Visualizations**
 
+How did total substance use per age group compare in 2018?
+Hypothesis: 18-25 year olds had the highest rate of substance use in 2018.
+
 <img width="918" alt="Screenshot 2023-12-30 at 5 33 39 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/4b8fd8f4-c2c2-422b-af70-24123ee93ca6">
 
 <img width="695" alt="Screenshot 2023-12-30 at 5 34 12 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/6d4de972-f183-4648-8ccd-4cbea4bd8a3f">
