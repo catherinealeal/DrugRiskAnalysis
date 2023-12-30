@@ -1,7 +1,7 @@
 # Drug Risk Analysis
 
 
-##**Introduction**
+## **Introduction**
 
 Drunk and impaired driving are devastating issues in the US, so I want to investigate how exactly different age groups have contributed to this problem. What age group has the highest rate of drug use? The highest rate of drug-positive crashes? Comparing these values will allow me to analyze the relationship between age, drug use, and drug-positive crash risk. The results of this project will inform on which population of people in the US are most prone to impaired car accidents.
 
