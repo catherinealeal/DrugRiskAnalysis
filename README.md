@@ -21,6 +21,8 @@ Hypothesis: 18-25 year olds had the highest rate of substance use in 2018.
 
 <img width="918" alt="Screenshot 2023-12-30 at 5 33 39 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/4b8fd8f4-c2c2-422b-af70-24123ee93ca6">
 
+---------
+
 Question: Is the rate of drug use for the 18-25 age group statistically different from the rates of use for the other two age groups?
 
 Hypothesis: The ratio of use for 18-25 year olds in 2018 was significantly higher than the ratios of use for the other age groups.
