@@ -6,14 +6,14 @@
 Drunk and impaired driving are devastating issues in the US, so I want to investigate how exactly different age groups have contributed to this problem. What age group has the highest rate of drug use? The highest rate of drug-positive crashes? Comparing these values will allow me to analyze the relationship between age, drug use, and drug-positive crash risk. The results of this project will inform on which population of people in the US are most prone to impaired car accidents.
 
 
-##**Dataset Sources:**
+## **Dataset Sources:**
 
 Substance use in the US overtime in different age groups: https://think.cs.vt.edu/corgis/csv/drugs/ 
 
 Crash risk of drug-positive drivers: https://www.nhtsa.gov/drug-and-alcohol-crash-risk-study/drug-and-alcohol-crash-risk-study-databases 
 
 
-##**Visualizations**
+## **Visualizations**
 
 <img width="918" alt="Screenshot 2023-12-30 at 5 33 39 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/4b8fd8f4-c2c2-422b-af70-24123ee93ca6">
 
@@ -37,7 +37,7 @@ Figure 5 shows the number of people within each age group who were users of a ce
 Figure 6 presents the frequencies that drugs were found in drug-positive car crash drivers. THC had by far the highest prevalence, followed by mixed doses, amphetamine, and alcohol. 
 
 
-##**Analysis**
+## **Analysis**
 
 Figures 2 and 3 prove that the rate of drug use for 18-25 year olds was significantly higher than the rates of use for other age groups in 2018 and Figure 4 signifies that 21-34 year olds were most likely to be drug-positive car crash drivers. These results correlate with each other to show that young adults, specifically people in their early 20s, are most at risk for substance abuse and for being in a car accident while under the influence. This conclusion makes sense as exposure to drug use and time spent driving might increase when an individual moves away from home or enters the professional world for the first time.
 
@@ -46,4 +46,4 @@ Figure 5 demonstrates that the most used drug by 12-25 year olds between 2010 an
 This analysis is limited by a couple factors. For one, the drug use data is for the US only, so those results can't necessarily be generalized to age groups and their drug usages throughout the world. In fact, drug use rates are likely to vary with location as accessibility and acceptance of certain drugs will vary with geographical and cultural differences. A second limitation is that the drug use data used here only considered alcohol, cocaine, and marijuana usage. These are likely the most commonly used substances so they should allow for an accurate comparison, but it is important to note that these rates don't encompass all drugs.
 
 
-##**View full project here:** https://github.com/catherinealeal/DrugRiskAnalysis/blob/6a5c23e8d89df88506f7e98104a42efa6bf03c71/DataScienceProject.ipynb
+## **View full project here:** https://github.com/catherinealeal/DrugRiskAnalysis/blob/6a5c23e8d89df88506f7e98104a42efa6bf03c71/DataScienceProject.ipynb
