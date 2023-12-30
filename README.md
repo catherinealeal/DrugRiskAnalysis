@@ -15,31 +15,41 @@ Crash risk of drug-positive drivers: https://www.nhtsa.gov/drug-and-alcohol-cras
 
 ## **Visualizations**
 
-How did total substance use per age group compare in 2018?
+Question: How did total substance use per age group compare in 2018?
+
 Hypothesis: 18-25 year olds had the highest rate of substance use in 2018.
 
 <img width="918" alt="Screenshot 2023-12-30 at 5 33 39 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/4b8fd8f4-c2c2-422b-af70-24123ee93ca6">
 
-<img width="695" alt="Screenshot 2023-12-30 at 5 34 12 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/6d4de972-f183-4648-8ccd-4cbea4bd8a3f">
+Question: Is the rate of drug use for the 18-25 age group statistically different from the rates of use for the other two age groups?
 
+Hypothesis: The ratio of use for 18-25 year olds in 2018 was significantly higher than the ratios of use for the other age groups.
+
+<img width="695" alt="Screenshot 2023-12-30 at 5 34 12 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/6d4de972-f183-4648-8ccd-4cbea4bd8a3f">
 
 Figure 1 shows that in 2018, 18-25 year olds had the highest rate of substance use of the three age groups, as predicted in my hypothesis. In order to determine if the substance use rate of 18-25 year olds in 2018 was significantly different from the use rates of the other two age groups, two bootstrap analyses were performed. The resulting sampling distributions are shown in Figures 2 and 3. These plots also show the 5% confidence interval cutoff values, as indicated by the red bars. The confidence interval for 12-17 year olds was 809-923 users (per 1,530,000 people) and that for 26+ year olds was 1115-1245 users (per 1,530,000 people). The rate of drug use for 18-25 year olds in 2018 was 2715 users (per 1,530,000 people). Since 2715 users is not in either of the sampling distributions’ confidence intervals, it can be concluded that the ratio of use for 18-25 year olds in 2018 was significantly higher than the ratios of use for the other age groups, thereby supporting my hypothesis.
 
+Question: Which age range had the most drug-positive drivers?
+
+Hypothesis: 21-34 year olds had the highest frequency of drug-positive crash drivers.
 
 <img width="485" alt="Screenshot 2023-12-30 at 5 34 27 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/a3c8f2cd-f4f0-404f-89a5-e1868c0b1820">
 
-
 Figure 4 represents the quantity of drivers in 4 age groups who were drug-positive car crash drivers. It shows that the age group with the most crash drivers under the influence was 21-34 year olds, followed closely by 35-64 year olds. The 16-20 and 65+ age groups had the lowest count of impaired crash drivers. This result supports my hypothesis.
 
+Question: Which drug was the most likely to be used by each age group?
+
+Hypothesis: Alcohol had the highest usage in every age group.
 
 <img width="689" alt="Screenshot 2023-12-30 at 5 34 49 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/b93b453c-e5af-4bf3-87a8-31091a368821">
 
-
 Figure 5 shows the number of people within each age group who were users of a certain drug over time. From 2010 to 2018, marijuana was by far the most used drug among 12-17 and 18-25 year olds. However, these groups differ in marijuana use in that the number of 12-17 year old users decreased over time and the number of 18-25 year old users increased over time. Alcohol and cocaine were significantly less used in these groups. In contrast, alcohol and marijuana uses in 26+ year olds were comparable. From 2010 to 2015, alcohol was most used by this group but from 2015 to 2018, marijuana was most used by this group. 
 
+Question: Which drugs were most frequently found in drug-positive crash drivers?
+
+Hypothesis: Alcohol was the most frequently found drug in drug-positive crash drivers.
 
 <img width="699" alt="Screenshot 2023-12-30 at 5 35 05 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/b3fcc9f6-0115-45f3-a7b8-cae106810b4c">
-
 
 Figure 6 presents the frequencies that drugs were found in drug-positive car crash drivers. THC had by far the highest prevalence, followed by mixed doses, amphetamine, and alcohol. 
 
