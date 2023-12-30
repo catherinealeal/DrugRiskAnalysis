@@ -19,20 +19,24 @@ Crash risk of drug-positive drivers: https://www.nhtsa.gov/drug-and-alcohol-cras
 
 <img width="695" alt="Screenshot 2023-12-30 at 5 34 12 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/6d4de972-f183-4648-8ccd-4cbea4bd8a3f">
 
+
 Figure 1 shows that in 2018, 18-25 year olds had the highest rate of substance use of the three age groups, as predicted in my hypothesis. In order to determine if the substance use rate of 18-25 year olds in 2018 was significantly different from the use rates of the other two age groups, two bootstrap analyses were performed. The resulting sampling distributions are shown in Figures 2 and 3. These plots also show the 5% confidence interval cutoff values, as indicated by the red bars. The confidence interval for 12-17 year olds was 809-923 users (per 1,530,000 people) and that for 26+ year olds was 1115-1245 users (per 1,530,000 people). The rate of drug use for 18-25 year olds in 2018 was 2715 users (per 1,530,000 people). Since 2715 users is not in either of the sampling distributions’ confidence intervals, it can be concluded that the ratio of use for 18-25 year olds in 2018 was significantly higher than the ratios of use for the other age groups, thereby supporting my hypothesis.
 
 
 <img width="485" alt="Screenshot 2023-12-30 at 5 34 27 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/a3c8f2cd-f4f0-404f-89a5-e1868c0b1820">
+
 
 Figure 4 represents the quantity of drivers in 4 age groups who were drug-positive car crash drivers. It shows that the age group with the most crash drivers under the influence was 21-34 year olds, followed closely by 35-64 year olds. The 16-20 and 65+ age groups had the lowest count of impaired crash drivers. This result supports my hypothesis.
 
 
 <img width="689" alt="Screenshot 2023-12-30 at 5 34 49 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/b93b453c-e5af-4bf3-87a8-31091a368821">
 
+
 Figure 5 shows the number of people within each age group who were users of a certain drug over time. From 2010 to 2018, marijuana was by far the most used drug among 12-17 and 18-25 year olds. However, these groups differ in marijuana use in that the number of 12-17 year old users decreased over time and the number of 18-25 year old users increased over time. Alcohol and cocaine were significantly less used in these groups. In contrast, alcohol and marijuana uses in 26+ year olds were comparable. From 2010 to 2015, alcohol was most used by this group but from 2015 to 2018, marijuana was most used by this group. 
 
 
 <img width="699" alt="Screenshot 2023-12-30 at 5 35 05 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/b3fcc9f6-0115-45f3-a7b8-cae106810b4c">
+
 
 Figure 6 presents the frequencies that drugs were found in drug-positive car crash drivers. THC had by far the highest prevalence, followed by mixed doses, amphetamine, and alcohol. 
 
@@ -46,4 +50,4 @@ Figure 5 demonstrates that the most used drug by 12-25 year olds between 2010 an
 This analysis is limited by a couple factors. For one, the drug use data is for the US only, so those results can't necessarily be generalized to age groups and their drug usages throughout the world. In fact, drug use rates are likely to vary with location as accessibility and acceptance of certain drugs will vary with geographical and cultural differences. A second limitation is that the drug use data used here only considered alcohol, cocaine, and marijuana usage. These are likely the most commonly used substances so they should allow for an accurate comparison, but it is important to note that these rates don't encompass all drugs.
 
 
-## **View full project here:** https://github.com/catherinealeal/DrugRiskAnalysis/blob/6a5c23e8d89df88506f7e98104a42efa6bf03c71/DataScienceProject.ipynb
+### **View full project here:** https://github.com/catherinealeal/DrugRiskAnalysis/blob/6a5c23e8d89df88506f7e98104a42efa6bf03c71/DataScienceProject.ipynb
