@@ -8,11 +8,11 @@ Drunk and impaired driving are devastating issues in the US. This project invest
 
 -------
 
-## **Data Sources:**
+## **Data Collection:**
 
-Substance use in the US overtime in different age groups: https://think.cs.vt.edu/corgis/csv/drugs/ 
+[Substance use in the US overtime in different age groups](https://think.cs.vt.edu/corgis/csv/drugs/)
 
-Crash risk of drug-positive drivers: https://www.nhtsa.gov/drug-and-alcohol-crash-risk-study/drug-and-alcohol-crash-risk-study-databases 
+[Crash risk of drug-positive drivers](https://www.nhtsa.gov/drug-and-alcohol-crash-risk-study/drug-and-alcohol-crash-risk-study-databases)
 
 -------
 
