@@ -1,9 +1,9 @@
-# Drug Risk Analysis
+# Analyzing Drug-Positive Crash Risk Between Age Groups 
 
 
 ## **Introduction**
 
-Drunk and impaired driving are devastating issues in the US, so I want to investigate how exactly different age groups have contributed to this problem. What age group has the highest rate of drug use? The highest rate of drug-positive crashes? Comparing these values will allow me to analyze the relationship between age, drug use, and drug-positive crash risk. The results of this project will inform on which population of people in the US are most prone to impaired car accidents.
+Drunk and impaired driving are devastating issues in the US. This project investigates how exactly different age groups have contributed to this problem. What age group has the highest rate of drug use? The highest rate of drug-positive crashes? Comparing these values will allow me to analyze the relationship between age, drug use, and drug-positive crash risk. The results of this project will inform on which population of people in the US are most prone to impaired car accidents.
 
 
 ## **Dataset Sources:**
@@ -15,12 +15,10 @@ Crash risk of drug-positive drivers: https://www.nhtsa.gov/drug-and-alcohol-cras
 
 ## **Visualizations**
 
-Question: How did total substance use per age group compare in 2018?
+**Hypothesis 1:** 18-25 year olds had the highest rate of substance use in 2018.
 
-Hypothesis: 18-25 year olds had the highest rate of substance use in 2018.
-
-<img width="918" alt="Screenshot 2023-12-30 at 5 33 39 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/4b8fd8f4-c2c2-422b-af70-24123ee93ca6">
-
+<img width="541" alt="Screenshot 2023-12-31 at 3 01 24 PM" src="https://github.com/catherinealeal/DrugRiskAnalysis/assets/100166102/10905fbc-e40e-4d5b-ae96-5b391dbab223">
+FIGURE 1: The above plot compares the number of substance users in 2018 in each age group per about 1.5 million people. An example interpretation would be that for about every 1.5 million 12-17 year olds in the US in 2018, about 900 of them were drug users in 2018.
 ---------
 
 Question: Is the rate of drug use for the 18-25 age group statistically different from the rates of use for the other two age groups?
